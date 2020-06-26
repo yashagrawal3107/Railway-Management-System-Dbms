@@ -28,7 +28,7 @@ XAMPP
 
   - Now add this project folder here
 
-  - Rename this project folder to ** railways **
+  - Rename this project folder to **railways**
 
 - After doing these changes now start the XAMPP server
 
