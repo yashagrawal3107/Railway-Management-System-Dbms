@@ -1,6 +1,6 @@
 # Railway-Management-System
 
-Railway Management System website built as course project in DBMS,B.Tech. 
+Railway Management System website built as course project in DBMS, B.Tech Semester IV. 
 
 ## Technologies Used
 
